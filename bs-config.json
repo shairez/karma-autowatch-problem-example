@@ -1,0 +1,8 @@
+{
+  "server": {
+    "baseDir": "./src",
+    "routes": {
+      "/bower_components": "bower_components"
+    }
+  }
+}

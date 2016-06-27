@@ -1,0 +1,23 @@
+{
+  "name": "bad-autowatch-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "karma start"
+  },
+  "author": "Shai Reznik <shai@hirez.io> (http://www.hirez.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "2.4.1",
+    "karma": "1.0.0",
+    "karma-chrome-launcher": "1.0.1",
+    "karma-jasmine": "1.0.2",
+    "lite-server": "2.2.2",
+    "wiredep": "4.0.0"
+  },
+  "dependencies": {
+    "angular": "1.5.7"
+  }
+}

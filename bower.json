@@ -1,0 +1,26 @@
+{
+  "name": "bad-autowatch-example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Shai Reznik <shai@hirez.io> (http://www.hirez.io/)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-mocks": "^1.5.7",
+    "angular-ui-router": "^0.3.1",
+    "angular-material": "^1.0.9"
+  },
+  "devDependencies": {
+    "jasmine-given": "^2.6.4"
+  }
+}
